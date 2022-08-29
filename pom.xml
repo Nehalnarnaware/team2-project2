@@ -8,7 +8,6 @@
 		<version>2.7.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<packages>war</packages>
 	
 	<groupId>team-2</groupId>
 	<artifactId>team-2</artifactId>
